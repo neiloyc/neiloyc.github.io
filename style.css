@@ -7,8 +7,13 @@
     font-family: helvetica; 
     background: rgb(77, 52, 77);
     color: rgb(204, 164, 197);
+    font-size: 400;
 }
 
 a {
     color: hotpink;
+}
+
+marquee{
+    font-size: 400;
 }
